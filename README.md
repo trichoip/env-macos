@@ -4,4 +4,4 @@
 -   https://github.com/git-ecosystem/git-credential-manager/blob/release/docs/install.md#macos
 -   env path:
     -   tạo file .zshenv
-    -   12322223
+    -   123222232
