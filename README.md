@@ -10,4 +10,4 @@
 -   env path:
     -   tạo file .zshenv
     -   123222232
-    -   123
+    -   12344
