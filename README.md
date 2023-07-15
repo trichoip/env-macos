@@ -4,6 +4,7 @@
     Nhấp vào biểu tượng Spotlight (kính lúp) ở bên phải thanh menu.
     Nhập Keychain Access, sau đó nhấn phím Enter để khởi chạy ứng dụng.
     Trong Keychain Access, tìm kiếm github.com.
+    git config --get credential.helper
     git-credential-manager configure
     git-credential-manager unconfigure
     Tìm mục nhập "Mật khẩu Internet" cho github.com.
