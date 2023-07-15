@@ -1,5 +1,7 @@
 -   Showing hidden files: Command Shift .
 -   show env: env
+-   Keychain Access
+-   https://github.com/git-ecosystem/git-credential-manager/blob/release/docs/install.md#macos
 -   env path:
     -   tạo file .zshenv
     -   12322223
