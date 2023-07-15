@@ -2,4 +2,4 @@
 -   show env: env
 -   env path:
     -   tạo file .zshenv
-    -   1
+    -   123
